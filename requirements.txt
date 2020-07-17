@@ -1,0 +1,8 @@
+opencv-python==4.2.0.32
+image==1.5.27
+ipdb==0.12.3
+ipython==7.10.1
+numpy==1.16.4
+requests==2.22.0
+virtualenv==16.7.9
+PyAutoGUI==0.9.50  
